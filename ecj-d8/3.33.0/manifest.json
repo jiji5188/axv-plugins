@@ -17,16 +17,19 @@
       "role": "compiler-dex"
     },
     {
-      "path": "android.jar.gz",
-      "size": 24985594,
-      "sha256": "75362e6b4ca744cca3cbad16e54c56051e229fab9ed3aee1faad45fd95e982c0",
-      "role": "classpath"
-    },
-    {
       "path": "msgs.bin.gz",
       "size": 29950,
       "sha256": "b1bf7874ee96621b4958e628d3a076b157d07be5579eb5642ce6f647d95ac310",
       "role": "i18n"
+    }
+  ],
+  "external": [
+    {
+      "path": "android.jar.gz",
+      "url": "https://raw.githubusercontent.com/jiji5188/axv-plugins/main/ecj-d8/3.33.0/android.jar.gz",
+      "size": 24985594,
+      "sha256": "75362e6b4ca744cca3cbad16e54c56051e229fab9ed3aee1faad45fd95e982c0",
+      "role": "classpath"
     }
   ]
 }
