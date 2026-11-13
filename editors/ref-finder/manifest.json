@@ -1,0 +1,11 @@
+{
+  "id": "axv:editor:ref-finder",
+  "name": "资源引用查找器",
+  "version": "0.1.0",
+  "type": "bare",
+  "kinds": ["code"],
+  "label": "资源引用查找器（第三方示例插件）",
+  "entry": "bundle.js",
+  "needsRealRender": false,
+  "description": "在资源树选中某资源后，查找项目里所有引用它的 @drawable/@string 位置。纯 DOM 实现，演示第三方编辑器插件的安装 + 挂载链路。"
+}
