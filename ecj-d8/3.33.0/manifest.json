@@ -1,5 +1,6 @@
 {
   "id": "ecj-d8",
+  "language": "java",
   "name": "Java 编译器（ECJ + D8）",
   "version": "3.33.0",
   "loader": "dex",
