@@ -1,0 +1,26 @@
+{
+  "plugins": [
+    {
+      "id": "axv:editor:drawable",
+      "name": "drawable 绘制编辑器",
+      "version": "1.0.0"
+    },
+    {
+      "id": "axv:editor:icon",
+      "name": "图标画布编辑器",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ecj-d8",
+      "name": "Java compiler (ECJ + D8)",
+      "version": "3.33.0",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/jiji5188/axv-plugins@main/manifest.json"
+    },
+    {
+      "id": "ref-finder",
+      "name": "ref-finder sample plugin",
+      "version": "1.0.0",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/jiji5188/axv-plugins@main/editors/ref-finder/manifest.json"
+    }
+  ]
+}
